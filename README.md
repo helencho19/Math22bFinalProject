@@ -1,3 +1,3 @@
-# Math22bFinalProject
+# Math22b Final Project: Principal Component Analysis
 
-This is the code accompanying the example in my final project for my Multivariable Calculus class.
+This is the code accompanying the example in my final project about Principal Component Analysis for my Multivariable Calculus class.
